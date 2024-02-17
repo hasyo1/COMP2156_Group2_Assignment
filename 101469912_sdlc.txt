@@ -33,8 +33,8 @@ Business Agility:
 - By embracing agile methodologies, DevOps engineers facilitate rapid experimentation, innovation, and iteration, allowing businesses to stay ahead of the competition and seize new opportunities.
 
 In Summary...
- DevOps engineers play a critical role in modern software development, driving collaboration, efficiency, quality, reliability, and innovation throughout the SDLC.
- By mastering DevOps practices and principles, individuals can contribute to the success and competitiveness of their organizations in today's dynamic digital landscape.
+- DevOps engineers play a critical role in modern software development, driving collaboration, efficiency, quality, reliability, and innovation throughout the SDLC.
+- By mastering DevOps practices and principles, individuals can contribute to the success and competitiveness of their organizations in today's dynamic digital landscape.
 
 
 
