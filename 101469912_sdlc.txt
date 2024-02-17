@@ -24,3 +24,5 @@ Efficient Resource Utilization:
 
 Security and Compliance: 
 -  DevOps engineers integrate security and compliance practices into the development process from the outset.
+- By implementing security controls, vulnerability scanning, and compliance checks as code, they ensure that applications meet regulatory requirements and withstand cyber threats.
+
