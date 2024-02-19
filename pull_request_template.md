@@ -16,4 +16,14 @@ Used youtube to troubleshoot minor things in the begginging
 
 ### Ross
 
+Responsibilities:
+-Create a branch
+-Add my repository
+-Create the required text files
+
+Problems:
+-Created the repository in the wrong spot originally
+-forgot to add .txt to the end of one of my files when I created it
+
+
 ### Arsham
