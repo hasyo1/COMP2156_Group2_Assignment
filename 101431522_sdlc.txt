@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Initial content on the importance of DevOps in SDLC
+Adding more details on DevOps practices in SDLC
+=======
+content on the importance of DevOps in SDLC
+>>>>>>> origin/101431522-Arsham
