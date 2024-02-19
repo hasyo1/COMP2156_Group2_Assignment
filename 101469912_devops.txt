@@ -1,0 +1,23 @@
+COMP2156 - Devops for System Administration 
+George Brown College
+
+Course Description:
+- The course covers procedures, protocols, and best practices for DevOps engineers to increase productivity in the workplace.
+- Students learn about various developer operation implementations and gain hands-on experience using industry-standard tools.
+
+
+Course Outcomes:
+- Students will be able to effectively carry out the roles of a System or Software engineer with DevOps processes, utilizing industry-standard tools and techniques.
+- They'll demonstrate skills in using DevOps tools, cloud database technologies, and techniques for software/network applications.
+- Students will enhance the software development lifecycle through cross-collaboration among IT staff and automate application configurations and operations.
+
+Required Textbooks and Resources:
+- DevOps: A Software Architect’s Perspective
+- Docker Up & Running: Shipping Reliable Containers in Production
+
+Evaluation System:
+- The passing grade for the course is a D (50%)
+- Evaluation includes exams, assignments, group assignments, lab exercises, and quizzes
+
+Overall:
+The course aims to provide students with a comprehensive understanding of DevOps principles, tools, and practices, preparing them for roles in system administration and related fields.
