@@ -1,3 +1,4 @@
 content about COMP 2156 DevOps course
 Details on continuous integration in COMP 2156
 Details on continuous integration in COMP 2156
+Details on continuous integration in COMP 2156
