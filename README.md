@@ -1,9 +1,11 @@
 # COMP2156 Group2 Assignment
 
-# Hasnan (Leader)
+## George Brown College
 
-# Ross
+### Hasnan 101469912 (Leader)
 
-# Arsham
+### Ross 101467450
 
-# Arvin
+### Arsham 101431522
+
+### Arvin
