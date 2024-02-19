@@ -1,1 +1,2 @@
 Initial content on the importance of DevOps in SDLC
+Adding more details on DevOps practices in SDLC
